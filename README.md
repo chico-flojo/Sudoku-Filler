@@ -6,7 +6,7 @@
 ## Team Members : 
 Himansh Mudigonda
 
-Bharath Sanikommu
+Bharath Kumar Reddy Sanikommu
 
 Dadi Hemasri
 
