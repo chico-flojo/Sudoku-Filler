@@ -1,20 +1,10 @@
 # Project Phase-1 Submission
 
-## Team Number : 
-1
-
-## Team Members : 
-Himansh Mudigonda
-
-Bharath Kumar Reddy Sanikommu
-
-Dadi Hemasri
-
 ## Project Title : 
 Auto-Sudoku Solver.
 
 ## Project Description : 
-In this project we create a brainy sudoku solver using the Backtracking algorithm.
+In this project we created sudoku solver using the Backtracking algorithm.
 
 ## Approach : 
 In this project we would use the Backtracking algorithm to solve the sudoku puzzle. Backtracking lets us solve the sudoku problem while exhausting all possible combinations of inputs(1 to 9) in the problem. This enables us to solve any sudoku, with any difficulty.
