@@ -1,13 +1,13 @@
-# Project Phase-1 Submission
+<h1 align="center">
+  
+Auto-Sudoku Solver
 
-## Project Title : 
-Auto-Sudoku Solver.
+![image](https://user-images.githubusercontent.com/54891285/120130520-ff4e7180-c1e3-11eb-8e18-47b4e73f071b.png)
 
-## Project Description : 
-In this project we created sudoku solver using the Backtracking algorithm.
+![Cpp](https://img.shields.io/badge/-++-333333?style=flat-square&logo=C) 
+<h1>
 
-## Approach : 
-In this project we would use the Backtracking algorithm to solve the sudoku puzzle. Backtracking lets us solve the sudoku problem while exhausting all possible combinations of inputs(1 to 9) in the problem. This enables us to solve any sudoku, with any difficulty.
+
 
 ## STEP Wise Algorithm : 
 STEP 1 : Find a block that has no predefined number.
