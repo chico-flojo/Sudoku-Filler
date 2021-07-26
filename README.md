@@ -1,6 +1,6 @@
 <h1 align="center">
   
-Auto-Sudoku Solver
+Backtracking Sudoku Solver
 
 ![image](https://user-images.githubusercontent.com/54891285/120130520-ff4e7180-c1e3-11eb-8e18-47b4e73f071b.png)
 
